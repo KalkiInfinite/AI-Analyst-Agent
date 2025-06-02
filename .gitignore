@@ -1,0 +1,13 @@
+# Ignore environment and secrets
+.env
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Optional: OS-specific files
+.DS_Store
+Thumbs.db
